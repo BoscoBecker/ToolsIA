@@ -1,5 +1,7 @@
 # ToolsIA - AI Tools Directory
 
+![image](https://github.com/user-attachments/assets/efb3a13e-d323-44a6-8738-18d9ef15b867)
+
 https://toolsia.boscobecker.fun/
 
 A comprehensive directory of artificial intelligence tools and services, organized by categories to help users find the right AI solution for their needs.
